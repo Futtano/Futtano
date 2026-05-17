@@ -17,11 +17,6 @@
 
 ---
 
-I build systems that go from raw data to real decisions — IoT sensor networks, ML pipelines, AI agents. My background is in telecommunications engineering, but I've spent the last few years deep in machine learning, edge deployment, and more recently multi-agent AI orchestration.
-
-Currently exploring the intersection of **LLM-based agents** and **practical software engineering**: how to design multi-agent workflows that are actually reliable, observable, and maintainable rather than just impressive in demos.
-
----
 <picture>
   <source media="(prefers-color-scheme: dark)"
           srcset="https://raw.githubusercontent.com/Futtano/Futtano/output/github-snake-dark.svg" />
@@ -29,5 +24,13 @@ Currently exploring the intersection of **LLM-based agents** and **practical sof
           srcset="https://raw.githubusercontent.com/Futtano/Futtano/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Futtano/Futtano/output/github-snake.svg" />
 </picture>
+
 ---
+
+I build systems that go from raw data to real decisions — IoT sensor networks, ML pipelines, AI agents. My background is in telecommunications engineering, but I've spent the last few years deep in machine learning, edge deployment, and more recently multi-agent AI orchestration.
+
+Currently exploring the intersection of **LLM-based agents** and **practical software engineering**: how to design multi-agent workflows that are actually reliable, observable, and maintainable rather than just impressive in demos.
+
+---
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:cba6f7,50:313244,100:1e1e2e&height=120&section=footer" width="100%"/>
